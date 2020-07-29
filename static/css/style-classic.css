@@ -1079,7 +1079,7 @@ article header .posttitle {
   line-height: 1.25;
 }
 article header .meta {
-  margin-top: 0;
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }
 article header .meta * {
